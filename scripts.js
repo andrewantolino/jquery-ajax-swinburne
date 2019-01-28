@@ -38,5 +38,7 @@ $(document).ready(function() {
 	// Create a button that gets a list of new posts from the jsonplaceholder API and replaces the initial list (#postList)
 
 
+	// Find a public API that you can pull data from and render it on the page. Consider pulling images from an API or other rich media
+	$.get();
 		
 });
