@@ -35,6 +35,8 @@ $(document).ready(function() {
 		console.log(data)
 	});
 
+	// Create a button that gets a list of new posts from the jsonplaceholder API and replaces the initial list (#postList)
+
 
 		
 });
