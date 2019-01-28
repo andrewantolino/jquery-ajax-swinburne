@@ -8,3 +8,5 @@ We will be working with the shorthand AJAX methods and jQuery.ajax() method:
 
 * [Shorthand methods](http://api.jquery.com/category/ajax/shorthand-methods/)
 * [jQuery.ajax()](http://api.jquery.com/jQuery.ajax/)
+
+Example data available at [JSON Placeholder](https://jsonplaceholder.typicode.com/) (See examples)

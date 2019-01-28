@@ -1,4 +1,10 @@
 body {
 	background: dodgerblue;
-	color: grey;
+	color: rgba(255, 255, 255, 0.8);
+	padding: 2em;
+	font-family: Verdana, sans-serif;
+}
+
+#postList {
+	font-family: Courier New, serif;
 }
